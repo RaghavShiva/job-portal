@@ -34,3 +34,6 @@ This project is a **job portal** web application built using the **MERN stack** 
 
 # License
 This project is licensed under the MIT License.
+
+# Contact
+For any questions or issues, please contact [raghavshiva97.6@gmail.com].
