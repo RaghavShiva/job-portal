@@ -8,11 +8,10 @@ This project is a **job portal** web application built using the **MERN stack** 
 - **Job Postings**: Employers can post and manage job listings.
 - **Job Applications**: Applicants can apply for jobs and view their application status.
 - **RESTful APIs**: Designed 10+ APIs for smooth communication between frontend and backend.
-- **State Management**: Utilizes Redux Toolkit for managing global state.
 - **Responsive Design**: Built with a mobile-friendly, responsive UI.
 
 ## Tech Stack
-- **Frontend**: React.js, Redux Toolkit, HTML, CSS, JavaScript
+- **Frontend**: React.js, HTML, CSS, JavaScript
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Security**: Bcrypt for password hashing, JWT for authentication
